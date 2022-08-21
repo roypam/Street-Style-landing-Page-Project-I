@@ -1,6 +1,6 @@
 # Street-Style-landing-Page-Project-I [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
-This is basically a one pager portfolio homepage Template project made in HTML/CSS.
+This is basically a one pager Street-Style-Homepage Template project made in HTML/CSS.
 
 Hope you like this project !!!
 
